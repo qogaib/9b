@@ -1,0 +1,50 @@
+body {
+    font-family: Times New Roman;
+	background-image: linear-gradient(to bottom, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+
+    font-size: 22px;
+    padding-top: 3%;
+    padding-bottom: 3%;    
+}
+
+.container{
+	background: white ;
+	padding-left: 2%;
+	padding-right: 2%;
+	border: 7px double #191970 ;
+	border-radius: 15px;
+}
+
+.images{	
+	width: 45%;
+}
+
+.cap{		
+	padding-top: 3%;
+
+}
+
+
+.cap_text{
+
+}
+
+.hr_teg{
+	border: none; 
+    color: red; 
+    background-color: #696969;
+    height: 2px; 
+}
+.nav-item{
+	border: 3px double #696969	;	
+	margin-top: 5px;
+	border-radius: 7px;
+}
+.nav-link{
+	color: #000080;	
+}
+.slova{
+	background-image: url(images/wall1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
