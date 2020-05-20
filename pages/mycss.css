@@ -20,14 +20,12 @@ body {
 }
 
 .cap{		
-	padding-top: 3%;
-
+	padding-top: 2%;
+	margin-top: 1%;
 }
 
 
-.cap_text{
 
-}
 
 .hr_teg{
 	border: none; 
@@ -44,7 +42,7 @@ body {
 	color: #000080;	
 }
 .slova{
-	background-image: url(images/wall1.jpg);
+	background-image: url(images/wall.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
